@@ -1,0 +1,44 @@
+body{
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+.container{
+      width: 100vh;
+      margin: 0 auto;
+}
+.content h1, .monk{
+     display: block;
+     margin-left: 35px;
+}
+.content{
+    margin-top: 85px;
+    margin-left: 110px;
+}
+h1{
+        padding-top: 18px;
+         padding-left: 40px;
+         font-weight: 50;    
+         font-size: x-large;
+         margin-bottom: 0px;           
+}
+.content a{
+    display: inline-block;
+    padding-top: 15px;
+}
+input{
+    padding: 6px;
+    border: 1px solid #d3d3d3;
+    position: absolute;
+    margin-top: 17px;
+    margin-left: 5px;
+}
+button{
+    position: absolute;
+    margin-top: 17px;
+    margin-left: 187px;
+    padding: 4px 25px ;
+    color: #333;
+    background-color: #f8f8f8;
+    border-color: #d3d3d3;
+    cursor: pointer;
+}
