@@ -15,11 +15,11 @@ body{
     margin-left: 110px;
 }
 h1{
-        padding-top: 18px;
-         padding-left: 40px;
-         font-weight: 50;    
-         font-size: x-large;
-         margin-bottom: 0px;           
+    padding-top: 18px;
+    padding-left: 40px;
+    font-weight: 50;    
+    font-size: x-large;
+    margin-bottom: 0px;           
 }
 .content a{
     display: inline-block;
